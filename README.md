@@ -1,2 +1,2 @@
 # cheat-detection
-# cheat-detection
+Student test monitoring system with auto cheat detection using Deep Learning. Cheat detection was implemented by watching the movement of the hands and the heading of the face from the students. First, the face detection was run using Multi-Task Cascaded Convolutional Neural Networks. And the hands detection was run using YOLOv3 model. Because the complexity of the model, CUDA library was used to get the ability of using GPU processor.
